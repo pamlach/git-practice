@@ -50,12 +50,7 @@ How we will engage with each other ... [coming soon...]
 * Final project (10%)
 * Final reflection (15%)
 
-\
-\
-\
-**TEST SPACING**
-
-<!--THIS IS A COMMENT: he backlash only works as line break when there is no markdown following it, at least not in VS Code ;-)  Or maybe just certain markdown (like headers and lists?)-->
+<br />
 
 
 ## Schedule ##
@@ -77,4 +72,12 @@ How we will engage with each other ... [coming soon...]
 Test referential link\
 Check out this link to [DH@SDSU][1]!
 
-[1]:dh.sdsu.edu
+[1]:https://dh.sdsu.edu/
+
+
+\
+\
+\
+**TEST SPACING**
+
+<!--THIS IS A COMMENT: the backlash only works as line break when there is no markdown following it, at least not in VS Code ;-)  Or maybe just certain markdown (like headers and lists?)-->

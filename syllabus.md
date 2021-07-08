@@ -66,6 +66,8 @@ How we will engage with each other ... [coming soon...]
 | Week 2 |  Digital Divides | Readings and Project Exploration [insert lots of info here] |
 | Week 3 | Method #1: ?? | Readings and Tool Exploration [insert lots of info here] |
 | Week 4| Method #2: ?? | Readings and Tool Exploration [insert lots of info here] |
+| Week 5 | Method #3: ?? | Readings and Tool Exploration [insert lots of info here] |
+| Week 6 | Pause to Reflect| What have we learned so far? |
 
 <br/>
 <br/>
